@@ -1,11 +1,4 @@
--- phpMyAdmin SQL Dump
--- version 3.4.11.1
--- http://www.phpmyadmin.net
---
--- Host: db144a.pair.com
--- Generation Time: Aug 03, 2013 at 04:54 PM
--- Server version: 5.1.61
--- PHP Version: 5.3.6
+
 
 SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 SET time_zone = "+00:00";
@@ -16,8 +9,6 @@ SET time_zone = "+00:00";
 /*!40101 SET @OLD_COLLATION_CONNECTION=@@COLLATION_CONNECTION */;
 /*!40101 SET NAMES utf8 */;
 
---
--- Database: `stishies_skatelipsum`
 --
 
 -- --------------------------------------------------------
