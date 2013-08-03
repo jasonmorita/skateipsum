@@ -1,0 +1,8 @@
+
+
+<IfModule mod_rewrite.c>  
+RewriteEngine on  
+RewriteBase /get
+RewriteRule ^([0-9]+)/([0-9]+)/([a-zA-Z]+)/$ $1/$2/$3 [R]
+RewriteRule ^([0-9]+)/([0-9]+)/([a-zA-Z]+)$ index.php?paragraphs=$1&startWith=$2&output=$3
+</IfModule>
