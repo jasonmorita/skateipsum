@@ -1,12 +1,5 @@
 <?php
-/*
-session_start();
 
-if (!isset($_SESSION['dudesblood']))
-{
-	header("Location: /");
-}
-*/
 
 $paragraphs = $_GET['paragraphs'];
 $startWith = $_GET['startWith'];
