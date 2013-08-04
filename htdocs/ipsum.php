@@ -11,6 +11,7 @@ require_once($_SERVER['DOCUMENT_ROOT'].'/db.php');
 		<a title="api">API</a>
 		<a title="plugin">jQuery</a>
 		<a title="why">Why</a>
+		<a href="https://github.com/jasonmorita/skateipsum">GitHub</a>
 	</nav>
 </header>
  

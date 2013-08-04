@@ -107,7 +107,7 @@ header nav {
 	padding: 4px;
 }
 
-header nav a {
+header nav a, header nav a:visited {
 	color: #fff;
 	font-size: 1.2em;
 	margin-right: 10px;
