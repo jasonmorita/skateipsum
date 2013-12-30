@@ -137,7 +137,7 @@ catch (Exception $e) {
 
 <footer>
 	<p>
-	<small>Made April 2012 by <a href="https://twitter.com/hescoding" target="_blank">Jason Morita</a> with lots of text input by <a href="https://twitter.com/ixdarren" target="_blank">Darren Ellis</a> and <a href="http://johnminardi.com/" target="_blank">John Minardi</a>. <a href="mailto:jason@hescoding.com?subject=SK8IPSUM">Let me know</a> if you find a problem, have a suggestion or think something is missing (a lot is). <?php echo number_format($landed[0][0], 0, '', ','); ?> paragraphs landed in a row.</small>
+	<small>Made April 2012 by <a href="https://twitter.com/jasonmorita" target="_blank">Jason Morita</a> with lots of text input by <a href="https://twitter.com/ixdarren" target="_blank">Darren Ellis</a> and <a href="http://johnminardi.com/" target="_blank">John Minardi</a>. <a href="mailto:jason@hescoding.com?subject=SK8IPSUM">Let me know</a> if you find a problem, have a suggestion or think something is missing (a lot is). <?php echo number_format($landed[0][0], 0, '', ','); ?> paragraphs landed in a row.</small>
 	</p>
 	<div class="clearfix" style="text-align: left;">
 		<div style="float: left;">
